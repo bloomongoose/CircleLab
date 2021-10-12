@@ -1,0 +1,14 @@
+C:\Users\radee\source\repos\CircleLab\CircleLab\bin\Debug\netcoreapp3.1\CircleLab.exe
+C:\Users\radee\source\repos\CircleLab\CircleLab\bin\Debug\netcoreapp3.1\CircleLab.deps.json
+C:\Users\radee\source\repos\CircleLab\CircleLab\bin\Debug\netcoreapp3.1\CircleLab.runtimeconfig.json
+C:\Users\radee\source\repos\CircleLab\CircleLab\bin\Debug\netcoreapp3.1\CircleLab.runtimeconfig.dev.json
+C:\Users\radee\source\repos\CircleLab\CircleLab\bin\Debug\netcoreapp3.1\CircleLab.dll
+C:\Users\radee\source\repos\CircleLab\CircleLab\bin\Debug\netcoreapp3.1\CircleLab.pdb
+C:\Users\radee\source\repos\CircleLab\CircleLab\obj\Debug\netcoreapp3.1\CircleLab.csproj.AssemblyReference.cache
+C:\Users\radee\source\repos\CircleLab\CircleLab\obj\Debug\netcoreapp3.1\CircleLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radee\source\repos\CircleLab\CircleLab\obj\Debug\netcoreapp3.1\CircleLab.AssemblyInfoInputs.cache
+C:\Users\radee\source\repos\CircleLab\CircleLab\obj\Debug\netcoreapp3.1\CircleLab.AssemblyInfo.cs
+C:\Users\radee\source\repos\CircleLab\CircleLab\obj\Debug\netcoreapp3.1\CircleLab.csproj.CoreCompileInputs.cache
+C:\Users\radee\source\repos\CircleLab\CircleLab\obj\Debug\netcoreapp3.1\CircleLab.dll
+C:\Users\radee\source\repos\CircleLab\CircleLab\obj\Debug\netcoreapp3.1\CircleLab.pdb
+C:\Users\radee\source\repos\CircleLab\CircleLab\obj\Debug\netcoreapp3.1\CircleLab.genruntimeconfig.cache
